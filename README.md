@@ -1,6 +1,6 @@
 # Nama : Risky HariAdi
 # Nim  : 312010124
-# Kelas : TI.20.a1
+# Kelas : TI.20.A1
 # Mata kuliah : web pemrograman
 
 # 1. Membuat Struktur Dasar Dokumen html
